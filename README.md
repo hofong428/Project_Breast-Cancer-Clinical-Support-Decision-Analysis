@@ -1,4 +1,4 @@
-# Project_Breast-Cancer-Clinical-Support-Decision-Analysis
+# Project_NSCLC-Clinical-Support-Decision-Analysis
 Performance comparison between different machine learning algorithms
 In this problem we have to use 30 different columns and we have to predict the Stage of Breast Cancer M (Malignant) and B (Bengin)
 This analysis has been done using Basic Machine Learning Algorithm with detailed explanation
